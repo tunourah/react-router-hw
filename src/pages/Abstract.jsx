@@ -9,11 +9,16 @@ const Abstract = () => {
       backgroundSize: 'cover',
       backgroundPosition: 'center',
       backgroundRepeat: 'no-repeat',
+        boxShadow:'inset 0 0 0 2000px rgba(0,0,0,0.5)'
     }}
   >
         <Containercard /> 
-    <div className="flex flex-col justify-center items-center h-full text-center">
-      <h1 className="text-4xl font-bold text-white mb-4"></h1>
+        <div className="flex flex-col justify-center items-center h-full text-center">
+      <h1 className="text-4xl font-bold text-white mb-4  p-2 border  shadow-lg"> Abstract Art
+
+ </h1>
+ <p className=' text-white mb-4'>Vibrant colors and shapes that create a dynamic look.
+</p>
    
     </div>
   </div>

@@ -10,11 +10,16 @@ const Digital = () => {
       backgroundSize: 'cover',
       backgroundPosition: 'center',
       backgroundRepeat: 'no-repeat',
+      boxShadow:'inset 0 0 0 2000px rgba(0,0,0,0.5)'
     }}
   >
         <Containercard /> 
     <div className="flex flex-col justify-center items-center h-full text-center">
-      <h1 className="text-4xl font-bold text-white mb-4">Fantasy Landscapes</h1>
+      <h1 className="text-4xl font-bold text-white mb-4  p-2 border  shadow-lg"> Digital Art
+
+ </h1>
+ <p className=' text-white mb-4'>Modern illustrations created using digital tools.
+</p>
    
     </div>
   </div>
