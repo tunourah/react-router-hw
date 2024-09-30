@@ -5,10 +5,12 @@ import Digital from "../pages/Digital";
 import Pop from "../pages/Pop";
 import Classic from "../pages/Classic";
 import Abstract from "../pages/Abstract";
+import ErrorPage from "../pages/ErrorPage";
 const Router = createBrowserRouter([  
     {
       path: "/",
       element: <App />,
+      errorElement: <ErrorPage />,
       
     },
     {
