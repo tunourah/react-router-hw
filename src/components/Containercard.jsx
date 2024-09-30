@@ -28,7 +28,7 @@ const Containercard = () => {
         />
         <Cards 
           title="Pop Art" 
-          btn="🍾" 
+          btn="✨" 
            link="/pop"
         />
       </div>
