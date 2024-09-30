@@ -5,7 +5,7 @@ const Containercard = () => {
   return (
     <div className="flex flex-col items-center justify-center text-center">
        
-      <div className=' grid grid-cols-5 sm:flex  sm:flex-row mx-auto w-full max-w-6xl gap-4 p-4    '>
+      <div className=' grid grid-cols-5 sm:flex  py-2 sm:flex-row mx-auto w-full max-w-6xl gap-4 p-4    '>
         <Cards 
           title="Wave Patterns" 
           btn=" 🧜🏻"
