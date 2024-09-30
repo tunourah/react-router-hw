@@ -7,7 +7,7 @@ const Containercard = () => {
        
       <div className=' grid grid-cols-5 sm:flex  sm:flex-row mx-auto w-full max-w-6xl gap-4 p-4    '>
         <Cards 
-          title="Sea Art" 
+          title="Wave Patterns" 
           btn=" 🧜🏻"
           link="/sea"
         />
