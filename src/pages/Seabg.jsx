@@ -6,7 +6,7 @@ const Seabg = () => {
     <div
       className="w-full h-screen overflow-hidden"
       style={{
-        backgroundImage: `url(https://i.pinimg.com/564x/d9/e0/75/d9e07514128c66974ce306e25f1d7062.jpg)`,
+        backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/1016/709/172/sea-asia-waves-artwork-japanese-art-hd-wallpaper-preview.jpg)`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
